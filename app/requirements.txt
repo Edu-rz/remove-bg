@@ -1,0 +1,9 @@
+Pillow
+matplotlib
+python-resize-image
+torch
+numpy
+transparent-background
+tqdm
+albumentations==1.4.18
+albucore==0.0.17
