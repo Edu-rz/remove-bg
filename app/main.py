@@ -159,7 +159,6 @@ def main():
             # Guardar la imagen procesada con fondo blanco
             output_path = os.path.splitext(output_path)[0] + ".png"
             background.save(output_path, format="PNG")
-            break
 
     print(
         f"Procesamiento completado. Imágenes procesadas guardadas en: {output_folder}"
